@@ -1,0 +1,26 @@
+{
+  "name": "match-simulation-algorithm",
+  "version": "1.0.0",
+  "description": "AN algorithm to simulate football (soccer) scores based off of a given rating value ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UP819950/Match-Simulation-Algorithm.git"
+  },
+  "keywords": [
+    "Simulation",
+    "Football",
+    "Soccer",
+    "Match-Simulation",
+    "Algorithm"
+  ],
+  "author": "Mathew Graves",
+  "license": "CC-BY-3.0",
+  "bugs": {
+    "url": "https://github.com/UP819950/Match-Simulation-Algorithm/issues"
+  },
+  "homepage": "https://github.com/UP819950/Match-Simulation-Algorithm#readme"
+}
