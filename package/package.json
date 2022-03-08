@@ -1,8 +1,9 @@
 {
   "name": "match-simulation-algorithm",
-  "version": "1.0.0",
-  "description": "AN algorithm to simulate football (soccer) scores based off of a given rating value ",
-  "main": "index.js",
+  "version": "1.0.2",
+  "description": "An algorithm to simulate football (soccer) scores",
+  "main": "index.cjs",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
